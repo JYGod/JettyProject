@@ -10,9 +10,6 @@ import javax.ws.rs.core.MediaType;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by memgq on 2017/5/14.
- */
 @Path("/")
 public class ConnMongoDB {
 

@@ -11,9 +11,7 @@ import org.glassfish.jersey.servlet.ServletContainer;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by memgq on 2017/5/14.
- */
+
 public class JettyServerStart {
     public static void main(String[] args)
     {
